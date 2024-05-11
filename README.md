@@ -32,4 +32,4 @@ perbedaan antara pengembangan native dan hybrid dalam konteks pengembangan aplik
 ```
 
 Screenshot showcase :
-image.png
+./image.png
