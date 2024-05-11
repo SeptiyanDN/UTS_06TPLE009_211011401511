@@ -41,7 +41,7 @@ class _ShoesListState extends State<ShoesList> {
       'subtitle': "Men's Road Running Shoes",
       'price': '29,995',
       'imageUrl':
-          'https://www.freepnglogos.com/uploads/shoes-png/shoes-wasatch-running-3.png',
+          'https://static.nike.com/a/images/t_default/c352f459-7930-4067-a51a-372df13b6ff2/vaporfly-3-womens-road-racing-shoes-4jJ4vQ.png',
       'backgroundColor': Colors.green, // Tambahkan warna latar belakang di sini
     },
     {
